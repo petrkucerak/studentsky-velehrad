@@ -1,48 +1,38 @@
-# Astro Starter Kit: Basics
+# Studentský Velehrad
 
-```sh
-npm create astro@latest -- --template basics
-```
+![Studentský Velehrad](public/social-image.png)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+Studentský Velehrad je celostátní setkání věřících vysokoškoláků a mladých pracujících na poutním místě Velehrad.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 📅 Datum konání
+**30. 4. - 3. 5. 2026**
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## 🌍 Web
+[studentskyvelehrad.cz](https://studentskyvelehrad.cz/)
 
-## 🚀 Project Structure
+## 📷 Sociální sítě
+- [Facebook](https://www.facebook.com/studentskyvelehrad/)
+- [Instagram](https://www.instagram.com/studentsky_velehrad/)
+- [YouTube](https://www.youtube.com/channel/UCBf-XP-0GacYV8bqpvq1dSw)
 
-Inside of your Astro project, you'll see the following folders and files:
+## 📩 Kontakt
+Pro dotazy a informace pište na: [studentskyvelehrad@vkhcr.org](mailto:studentskyvelehrad@vkhcr.org)
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## 🚀 Technologie
+Tento projekt je vytvořen pomocí:
+- HTML
+- CSS (Tailwind CSS)
+- Cloudflare Pages
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+## 🏗 Struktura projektu
+- `index.html` - Hlavní webová stránka
+- `/favicon/` - Ikony pro různé platformy
+- `/img/` - Obrázky používané na webu
+- `/_astro/` - Vygenerované CSS styly
 
-## 🧞 Commands
+## 📜 Licence
+Tento projekt je open-source a je k dispozici pod licencí **MIT**.
 
-All commands are run from the root of the project, from a terminal:
+---
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Připojte se k nám na Studentském Velehradě 2026! 🎉
